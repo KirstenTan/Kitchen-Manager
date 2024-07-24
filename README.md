@@ -40,25 +40,25 @@ The <b>recipes</b> page allows the user to modify their recipe book. When the us
 ## Known Issues and Bugs
 
 <b>Issue 1</b>: Editing an item in the grocery or inventory list deletes the set expiry date. <br>
-<p margin-left="4px">
+<p margin-left="4em">
   Status: Open <br>
   Details: The expiry date values are simply reset to nothing and no other function is interfered with.
 </p>
 
 <b>Issue 2</b>: Multi-word missing recipe items cannot be properly added to the grocery list. <br>
-<p margin-left="4px">
+<p margin-left="4em">
   Status: Open <br>
   Details: The program is unable to correctly split the item's values in the recipe's ingredients list when it encounters a multi-word item name. When the item is added to the grocery list, its values are not placed under the correct category.
 </p>
 
 <b>Issue 3</b>: Deleting a recipe deletes its content but the recipe button and page remain visible. <br>
-<p margin-left="4px">
+<p margin-left="4em">
   Status: Open <br>
   Details: The program still considers this blank recipe as an existing recipe, so adding a new recipe will create a new page and a new button under the blank one.
 </p>
 
 <b>Issue 4</b>: (Optional feature) The Edit Recipe function does not work at all. <br>
-<p margin-left="4px">
+<p margin-left="4em">
   Status: Open <br>
   Details: This was an optional feature that I tried to implement but was unable to in the given timeframe. Pressing the Edit Recipe button opens up the Add Recipe page with none of the selected recipe's information loaded in.
 </p>
