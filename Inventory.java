@@ -138,7 +138,7 @@ public class Inventory extends JFrame {
 		editBtn.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				function = "edit";
-				AddEditItem f4 = new AddEditItem(groceryTable, groceryDtm, inventoryTable, inventoryDtm, page, function, selRow);
+				ModifyItem f4 = new ModifyItem(groceryTable, groceryDtm, inventoryTable, inventoryDtm, page, function, selRow);
 				f4.setVisible(true);
 				dispose();
 			}
@@ -154,7 +154,7 @@ public class Inventory extends JFrame {
 		addBtn.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				function = "add";
-				AddEditItem f4 = new AddEditItem(groceryTable, groceryDtm, inventoryTable, inventoryDtm, page, function, selRow);
+				ModifyItem f4 = new ModifyItem(groceryTable, groceryDtm, inventoryTable, inventoryDtm, page, function, selRow);
 				f4.setVisible(true);
 				dispose();
 			}
