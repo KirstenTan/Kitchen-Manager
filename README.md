@@ -17,17 +17,25 @@ The <b>inventory</b> page allows the user to modify their current kitchen invent
 
 The <b>recipes</b> page allows the user to modify their recipe book. When the user selects a recipe, an alert message shows up if they do not have all the ingredients needed, and they may choose to add these ingredients to their grocery list.
 
-<img alt="Grocery Page" src="https://github.com/KirstenTan/Kitchen-Manager/blob/main/images/Grocery%20List.png" width="20%" align="center"> <br>
-<i>Grocery List Page</i> <br><br>
+<div align="center">
+  <img alt="Grocery Page" src="https://github.com/KirstenTan/Kitchen-Manager/blob/main/images/Grocery%20List.png" width="50%"> <br>
+  <i>Grocery List Page</i> <br><br>
+</div>
 
-<img alt="Add Item Page" src="https://github.com/KirstenTan/Kitchen-Manager/blob/main/images/Add%20Item.png" width="20%" align="center"> <br>
-<i>Add Item Page</i> <br><br>
+<div align="center">
+  <img alt="Add Item Page" src="https://github.com/KirstenTan/Kitchen-Manager/blob/main/images/Add%20Item.png" width="50%"> <br>
+  <i>Add Item Page</i> <br><br>
+</div>
 
-<img alt="Recipes Page" src="https://github.com/KirstenTan/Kitchen-Manager/blob/main/images/Recipe%20List" width="20%" align="center"> <br>
-<i>Recipes Page</i> <br><br>
+<div align="center">
+  <img alt="Recipes Page" src="https://github.com/KirstenTan/Kitchen-Manager/blob/main/images/Recipe%20List" width="50%"> <br>
+  <i>Recipes Page</i> <br><br>
+</div>
 
-<img alt="Add Recipe Page" src="https://github.com/KirstenTan/Kitchen-Manager/blob/main/images/Add%20Recipe.png" width="20%" align="center"> <br>
-<i>Add Recipes Page</i> <br><br>
+<div align="center">
+  <img alt="Add Recipe Page" src="https://github.com/KirstenTan/Kitchen-Manager/blob/main/images/Add%20Recipe.png" width="50%"> <br>
+  <i>Add Recipes Page</i> <br><br>
+</div>
 
 ## Known Issues and Bugs
 
