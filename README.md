@@ -40,7 +40,7 @@ The <b>recipes</b> page allows the user to modify their recipe book. When the us
 ## Known Issues and Bugs
 
 <b>Issue 1</b>: Editing an item in the grocery or inventory list deletes the set expiry date. <br>
-<p style="margin-left: 4em;">
+<p style="margin-left: 10px;">
   Status: Open <br>
   Details: The expiry date values are simply reset to nothing and no other function is interfered with.
 </p>
