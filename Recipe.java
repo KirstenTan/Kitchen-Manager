@@ -288,7 +288,7 @@ public class Recipe extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				function = "edit";
 				recipeName = recipeNameLbl.getText();
-				AddEditRecipe f4 = new AddEditRecipe (createButton2, function, recipeName);
+				ModifyRecipe f4 = new ModifyRecipe (createButton2, function, recipeName);
 				f4.setVisible(true);
 				dispose();
 			}
@@ -304,7 +304,7 @@ public class Recipe extends JFrame {
 		addBtn.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				function = "add";
-				AddEditRecipe f4 = new AddEditRecipe (createButton2, function, recipeName);
+				ModifyRecipe f4 = new ModifyRecipe (createButton2, function, recipeName);
 				f4.setVisible(true);
 				dispose();
 			}
