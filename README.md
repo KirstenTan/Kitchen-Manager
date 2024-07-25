@@ -2,7 +2,7 @@
 
 ## Description
 
-Smart Cook is a Kitchen Manager application. It is a comprehensive Java application for managing grocery lists, kitchen inventory, and recipes with synchronized functionalities for enhanced user convenience.\
+Smart Cook is a kitchen manager application. It is a comprehensive Java application for managing grocery lists, kitchen inventory, and recipes with synchronized functionalities for enhanced user convenience.\
 
 ## Installation
 
